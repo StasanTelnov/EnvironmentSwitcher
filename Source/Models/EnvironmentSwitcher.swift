@@ -39,7 +39,11 @@ public class EnvironmentSwitcher {
     }
     
     /// Say observers, when server was changed
-    public weak var delegate: EnvironmentSwitcherDelegate?
+    public weak var delegate: EnvironmentSwitcherDelegate? {
+        didSet {
+            delegate?.serverDidChanged(service.currentServer)
+        }
+    }
     
     // MARK: - life cicle
     /// Initialize switcher with configuration and app container

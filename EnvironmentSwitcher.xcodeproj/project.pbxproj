@@ -95,11 +95,7 @@
 		793EF23422FADBC400FBFE04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		793EF23622FADBD500FBFE04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		793EF23822FADBE900FBFE04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SwitcherServerSelectController.xib; sourceTree = "<group>"; };
-		793EF23B22FADBF000FBFE04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SwitcherServerSelectController.strings; sourceTree = "<group>"; };
-		793EF23D22FADBF000FBFE04 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/SwitcherServerSelectController.strings; sourceTree = "<group>"; };
 		793EF23F22FADBF600FBFE04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/AppStartRootController.xib; sourceTree = "<group>"; };
-		793EF24222FADBFB00FBFE04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/AppStartRootController.strings; sourceTree = "<group>"; };
-		793EF24422FADBFC00FBFE04 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/AppStartRootController.strings; sourceTree = "<group>"; };
 		793EF24922FADCF000FBFE04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		793EF24B22FADCF400FBFE04 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		793EF24F22FADD0E00FBFE04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -107,8 +103,6 @@
 		793EF25222FADD5500FBFE04 /* String+i18n.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+i18n.swift"; sourceTree = "<group>"; };
 		7942563E22FDA2CC00E3896F /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		7942564322FDA42D00E3896F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SettingsView.xib; sourceTree = "<group>"; };
-		7942564622FDA43000E3896F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SettingsView.strings; sourceTree = "<group>"; };
-		7942564822FDA43300E3896F /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/SettingsView.strings; sourceTree = "<group>"; };
 		7942564922FDA85C00E3896F /* UIView+XibLoadable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+XibLoadable.swift"; sourceTree = "<group>"; };
 		7942564B22FDB15200E3896F /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 		7943A8BA22F45A0A000E94B1 /* EnvironmentSwitcherExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnvironmentSwitcherExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -142,6 +136,12 @@
 		79ED4C7A22F4704300D0E61E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79ED4C8222F4707E00D0E61E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79ED4C8422F4707E00D0E61E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		79F4D4E724A4AB1B00161B84 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SettingsView.strings; sourceTree = "<group>"; };
+		79F4D4E924A4AB1C00161B84 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/SettingsView.strings; sourceTree = "<group>"; };
+		79F4D4EB24A4AB3300161B84 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SwitcherServerSelectController.strings; sourceTree = "<group>"; };
+		79F4D4EF24A4AB4400161B84 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/SwitcherServerSelectController.strings; sourceTree = "<group>"; };
+		79F4D4F124A4AB5600161B84 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/AppStartRootController.strings; sourceTree = "<group>"; };
+		79F4D4F324A4AB5900161B84 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/AppStartRootController.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -676,8 +676,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				793EF23822FADBE900FBFE04 /* Base */,
-				793EF23B22FADBF000FBFE04 /* en */,
-				793EF23D22FADBF000FBFE04 /* ru */,
+				79F4D4EB24A4AB3300161B84 /* en */,
+				79F4D4EF24A4AB4400161B84 /* ru */,
 			);
 			name = SwitcherServerSelectController.xib;
 			sourceTree = "<group>";
@@ -686,8 +686,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				793EF23F22FADBF600FBFE04 /* Base */,
-				793EF24222FADBFB00FBFE04 /* en */,
-				793EF24422FADBFC00FBFE04 /* ru */,
+				79F4D4F124A4AB5600161B84 /* en */,
+				79F4D4F324A4AB5900161B84 /* ru */,
 			);
 			name = AppStartRootController.xib;
 			sourceTree = "<group>";
@@ -714,8 +714,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				7942564322FDA42D00E3896F /* Base */,
-				7942564622FDA43000E3896F /* en */,
-				7942564822FDA43300E3896F /* ru */,
+				79F4D4E724A4AB1B00161B84 /* en */,
+				79F4D4E924A4AB1C00161B84 /* ru */,
 			);
 			name = SettingsView.xib;
 			sourceTree = "<group>";
@@ -799,7 +799,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 74D89J266R;
+				DEVELOPMENT_TEAM = CWKHH9G4AP;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -874,7 +874,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 74D89J266R;
+				DEVELOPMENT_TEAM = CWKHH9G4AP;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -1233,7 +1233,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 74D89J266R;
+				DEVELOPMENT_TEAM = CWKHH9G4AP;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1315,7 +1315,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 74D89J266R;
+				DEVELOPMENT_TEAM = CWKHH9G4AP;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";

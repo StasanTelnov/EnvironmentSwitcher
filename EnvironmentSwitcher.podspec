@@ -10,9 +10,9 @@ Pod::Spec.new do |s|
     
   	s.license = { :type => 'MIT', :file => 'LICENSE.md' }
     s.authors = { 'Stas Telnov' => 'telnov@aeroidea.ru' }
-    s.homepage = 'https://github.com/AeroAgency/EnvironmentSwitcher'
+    s.homepage = 'https://github.com/StasanTelnov/EnvironmentSwitcher'
     
-    s.source = { :git => "https://github.com/AeroAgency/EnvironmentSwitcher.git", :tag => s.version }
+    s.source = { :git => "https://github.com/StasanTelnov/EnvironmentSwitcher.git", :tag => s.version }
     s.source_files = 'Source/**/*.swift'
     s.resources = "Source/**/*.{xcassets,xib}"
 end
